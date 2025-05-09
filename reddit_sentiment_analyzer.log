@@ -1,0 +1,1740 @@
+2025-05-09 08:49:37,502 - __main__ - INFO - Setting up Chrome WebDriver...
+2025-05-09 08:49:37,502 - WDM - INFO - ====== WebDriver manager ======
+2025-05-09 08:49:38,689 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-09 08:49:39,193 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-09 08:49:39,636 - WDM - INFO - Driver [C:\Users\user\.wdm\drivers\chromedriver\win64\136.0.7103.92\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-09 08:49:40,974 - __main__ - INFO - WebDriver setup complete
+2025-05-09 08:49:40,974 - __main__ - INFO - Starting analysis for R programming language
+2025-05-09 08:49:40,975 - __main__ - INFO - Processing subreddit: r/rlanguage
+2025-05-09 08:49:40,975 - __main__ - INFO - Page 1/3: https://www.reddit.com/r/rlanguage/hot/
+2025-05-09 08:49:45,786 - __main__ - INFO - Waiting for posts to load...
+2025-05-09 08:50:32,076 - __main__ - INFO - Found posts with selector: shreddit-post
+2025-05-09 08:50:32,076 - __main__ - INFO - Scrolling to load more content...
+2025-05-09 08:50:35,526 - __main__ - INFO - Found 25 post links with selector: shreddit-post a[slot='full-post-link']
+2025-05-09 08:50:35,533 - __main__ - INFO - Found 25 post links
+2025-05-09 08:50:35,534 - __main__ - INFO - Processing post 1/25: https://www.reddit.com/r/Rlanguage/comments/1kgegeb/how_do_i_change_only_one_ggplot_legend_label/
+2025-05-09 08:50:38,053 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:50:53,432 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:50:53,674 - __main__ - INFO - Successfully extracted post data: How do I change only one ggplot legend label?
+2025-05-09 08:50:53,674 - __main__ - INFO - Sentiment: 0.46 (pos: 0.08, neg: 0.00)
+2025-05-09 08:50:56,674 - __main__ - INFO - Processing post 2/25: https://www.reddit.com/r/Rlanguage/comments/1kgnyx0/where_to_learn_r_language/
+2025-05-09 08:50:58,504 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:51:13,835 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:51:14,092 - __main__ - INFO - Successfully extracted post data: Where to learn R language
+2025-05-09 08:51:14,093 - __main__ - INFO - Sentiment: -0.27 (pos: 0.08, neg: 0.12)
+2025-05-09 08:51:17,093 - __main__ - INFO - Processing post 3/25: https://www.reddit.com/r/Rlanguage/comments/1kg0fxi/help_wit_plots/
+2025-05-09 08:51:19,039 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:51:34,400 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:51:34,607 - __main__ - INFO - Successfully extracted post data: Help wit plots
+2025-05-09 08:51:34,608 - __main__ - INFO - Sentiment: 0.68 (pos: 0.12, neg: 0.05)
+2025-05-09 08:51:37,608 - __main__ - INFO - Processing post 4/25: https://www.reddit.com/r/Rlanguage/comments/1kfhorj/does_anyone_else_have_issue_after_issue_either_r/
+2025-05-09 08:51:39,905 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:51:55,255 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:51:55,514 - __main__ - INFO - Successfully extracted post data: Does anyone else have issue after issue either R on the M4 chip
+2025-05-09 08:51:55,514 - __main__ - INFO - Sentiment: 0.69 (pos: 0.12, neg: 0.04)
+2025-05-09 08:51:58,515 - __main__ - INFO - Processing post 5/25: https://www.reddit.com/r/Rlanguage/comments/1kfai1t/dplyr_problem_with_data_masking/
+2025-05-09 08:52:00,973 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:52:16,314 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:52:16,516 - __main__ - INFO - Successfully extracted post data: dplyr: Problem with data masking
+2025-05-09 08:52:16,516 - __main__ - INFO - Sentiment: -0.87 (pos: 0.00, neg: 0.22)
+2025-05-09 08:52:16,519 - __main__ - INFO - Data saved to output\r_posts_batch_5.json
+2025-05-09 08:52:19,520 - __main__ - INFO - Processing post 6/25: https://www.reddit.com/r/Rlanguage/comments/1kf8i74/subscript_out_of_bond_just_trying_to_order_a_data/
+2025-05-09 08:52:21,869 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:52:37,218 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:52:37,460 - __main__ - INFO - Successfully extracted post data: Subscript out of bond - just trying to order a data frame
+2025-05-09 08:52:37,461 - __main__ - INFO - Sentiment: 0.86 (pos: 0.12, neg: 0.00)
+2025-05-09 08:52:40,462 - __main__ - INFO - Processing post 7/25: https://www.reddit.com/r/Rlanguage/comments/1kf56g8/trying_to_filter_a_data_frame_based_on_two/
+2025-05-09 08:52:42,616 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:52:57,963 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:52:58,210 - __main__ - INFO - Successfully extracted post data: trying to filter a data frame based on two variables
+2025-05-09 08:52:58,210 - __main__ - INFO - Sentiment: -0.80 (pos: 0.08, neg: 0.13)
+2025-05-09 08:53:01,211 - __main__ - INFO - Processing post 8/25: https://www.reddit.com/r/Rlanguage/comments/1kek2nr/different_approaches_to_calculate_a_determinant/
+2025-05-09 08:53:03,342 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:53:18,684 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:53:18,953 - __main__ - INFO - Successfully extracted post data: Different approaches to calculate a determinant of a matrix lead to different results.
+2025-05-09 08:53:18,953 - __main__ - INFO - Sentiment: -0.36 (pos: 0.05, neg: 0.07)
+2025-05-09 08:53:21,954 - __main__ - INFO - Processing post 9/25: https://www.reddit.com/r/Rlanguage/comments/1ke4i55/r_language_server_support_in_nvim_011_onwards/
+2025-05-09 08:53:24,021 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:53:39,351 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:53:39,555 - __main__ - INFO - Successfully extracted post data: R Language Server support in nvim 0.11 onwards
+2025-05-09 08:53:39,555 - __main__ - INFO - Sentiment: 0.62 (pos: 0.10, neg: 0.00)
+2025-05-09 08:53:42,556 - __main__ - INFO - Processing post 10/25: https://www.reddit.com/r/Rlanguage/comments/1ke0jlb/saved_rdata_into_r_file/
+2025-05-09 08:53:44,375 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:53:59,788 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:54:00,084 - __main__ - INFO - Successfully extracted post data: Saved ".RData" into ".R" file
+2025-05-09 08:54:00,085 - __main__ - INFO - Sentiment: -0.61 (pos: 0.00, neg: 0.16)
+2025-05-09 08:54:00,087 - __main__ - INFO - Data saved to output\r_posts_batch_10.json
+2025-05-09 08:54:03,088 - __main__ - INFO - Processing post 11/25: https://www.reddit.com/r/Rlanguage/comments/1kd0who/supercharge_your_r_workflows_with_duckdb/
+2025-05-09 08:54:04,821 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:54:50,958 - __main__ - INFO - Found post content with selector: div.md
+2025-05-09 08:54:51,335 - __main__ - INFO - Successfully extracted post data: Supercharge your R workflows with DuckDB
+2025-05-09 08:54:51,335 - __main__ - INFO - Sentiment: 0.00 (pos: 0.00, neg: 0.00)
+2025-05-09 08:54:54,336 - __main__ - INFO - Processing post 12/25: https://www.reddit.com/r/Rlanguage/comments/1kdgph1/the_x_axis_of_the_histogram_doesnt_start_at_0/
+2025-05-09 08:54:57,140 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:55:12,547 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:55:12,908 - __main__ - INFO - Successfully extracted post data: The X Axis of the histogram doesn't start at 0
+2025-05-09 08:55:12,909 - __main__ - INFO - Sentiment: 0.19 (pos: 0.14, neg: 0.11)
+2025-05-09 08:55:15,910 - __main__ - INFO - Processing post 13/25: https://www.reddit.com/r/Rlanguage/comments/1kcg3vt/is_there_a_way_to_embed_interactive_plotly_charts/
+2025-05-09 08:55:17,750 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:55:33,086 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:55:33,593 - __main__ - INFO - Successfully extracted post data: Is there a way to embed interactive plotly charts in PowerPoint?
+2025-05-09 08:55:33,593 - __main__ - INFO - Sentiment: 0.62 (pos: 0.15, neg: 0.00)
+2025-05-09 08:55:36,594 - __main__ - INFO - Processing post 14/25: https://www.reddit.com/r/Rlanguage/comments/1kbp65g/display_r_console_messages_real_time_in_shiny/
+2025-05-09 08:55:39,312 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:55:54,757 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:55:55,097 - __main__ - INFO - Successfully extracted post data: Display R Console Messages Real Time in Shiny Dashboard
+2025-05-09 08:55:55,097 - __main__ - INFO - Sentiment: 0.77 (pos: 0.05, neg: 0.00)
+2025-05-09 08:55:58,098 - __main__ - INFO - Processing post 15/25: https://www.reddit.com/r/Rlanguage/comments/1kbcowp/changing_size_of_axis_numbers_ggplot/
+2025-05-09 08:56:01,153 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:56:16,551 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:56:17,194 - __main__ - INFO - Successfully extracted post data: Changing size of axis numbers ggplot
+2025-05-09 08:56:17,194 - __main__ - INFO - Sentiment: -0.31 (pos: 0.06, neg: 0.09)
+2025-05-09 08:56:17,294 - __main__ - INFO - Data saved to output\r_posts_batch_15.json
+2025-05-09 08:56:20,295 - __main__ - INFO - Processing post 16/25: https://www.reddit.com/r/Rlanguage/comments/1kasswi/first_steps_in_r/
+2025-05-09 08:56:22,887 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:56:38,274 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:56:38,499 - __main__ - INFO - Successfully extracted post data: First steps in R
+2025-05-09 08:56:38,500 - __main__ - INFO - Sentiment: 0.93 (pos: 0.19, neg: 0.00)
+2025-05-09 08:56:41,500 - __main__ - INFO - Processing post 17/25: https://www.reddit.com/r/Rlanguage/comments/1kau17l/how_to_fuzzy_match_two_data_tables_with_business/
+2025-05-09 08:56:44,154 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:56:59,496 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:56:59,701 - __main__ - INFO - Successfully extracted post data: How to Fuzzy Match Two Data Tables with Business Names in R or Excel?
+2025-05-09 08:56:59,701 - __main__ - INFO - Sentiment: 0.98 (pos: 0.18, neg: 0.00)
+2025-05-09 08:57:02,702 - __main__ - INFO - Processing post 18/25: https://www.reddit.com/r/Rlanguage/comments/1kb1po9/completely_lost_on_how_to_download_and_use_r/
+2025-05-09 08:57:04,873 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:57:20,262 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:57:20,550 - __main__ - INFO - Successfully extracted post data: Completely Lost on How to Download and Use R
+2025-05-09 08:57:20,551 - __main__ - INFO - Sentiment: -0.84 (pos: 0.09, neg: 0.16)
+2025-05-09 08:57:23,551 - __main__ - INFO - Processing post 19/25: https://www.reddit.com/r/Rlanguage/comments/1kagefh/switching_to_jupyter_is_it_worth_it/
+2025-05-09 08:57:34,240 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:57:49,733 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:57:50,014 - __main__ - INFO - Successfully extracted post data: Switching to Jupyter -- is it worth it?
+2025-05-09 08:57:50,014 - __main__ - INFO - Sentiment: 0.85 (pos: 0.08, neg: 0.01)
+2025-05-09 08:57:53,015 - __main__ - INFO - Processing post 20/25: https://www.reddit.com/r/Rlanguage/comments/1k8glq4/robust_and_cluster_standard_errors_in_panel_are/
+2025-05-09 08:57:54,907 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:58:10,405 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:58:10,770 - __main__ - INFO - Successfully extracted post data: Robust and Cluster standard errors in panel, are they the same?
+2025-05-09 08:58:10,770 - __main__ - INFO - Sentiment: 0.28 (pos: 0.05, neg: 0.04)
+2025-05-09 08:58:10,783 - __main__ - INFO - Data saved to output\r_posts_batch_20.json
+2025-05-09 08:58:13,785 - __main__ - INFO - Reached maximum post count (20) for r. Stopping.
+2025-05-09 08:58:13,996 - __main__ - INFO - Found load more button
+2025-05-09 08:58:17,120 - __main__ - INFO - Reached maximum post count (20) for R. Moving to next language.
+2025-05-09 08:58:17,129 - __main__ - INFO - Data saved to output\r_posts.json
+2025-05-09 08:58:17,130 - __main__ - INFO - Completed analysis for R. Total posts scraped: 20
+2025-05-09 08:58:17,130 - __main__ - INFO - Starting analysis for Go programming language
+2025-05-09 08:58:17,132 - __main__ - INFO - Processing subreddit: r/golang
+2025-05-09 08:58:17,132 - __main__ - INFO - Page 1/3: https://www.reddit.com/r/golang/hot/
+2025-05-09 08:58:20,978 - __main__ - INFO - Waiting for posts to load...
+2025-05-09 08:59:06,925 - __main__ - INFO - Found posts with selector: shreddit-post
+2025-05-09 08:59:06,926 - __main__ - INFO - Scrolling to load more content...
+2025-05-09 08:59:10,690 - __main__ - INFO - Found 25 post links with selector: shreddit-post a[slot='full-post-link']
+2025-05-09 08:59:10,718 - __main__ - INFO - Found 25 post links
+2025-05-09 08:59:10,722 - __main__ - INFO - Processing post 1/25: https://www.reddit.com/r/golang/comments/1khm1xv/introducing_docscraper_a_gobased_web_crawler_for/
+2025-05-09 08:59:13,263 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:59:28,482 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:59:29,085 - __main__ - INFO - Successfully extracted post data: Introducing doc-scraper: A Go-Based Web Crawler for LLM Documentation
+2025-05-09 08:59:29,087 - __main__ - INFO - Sentiment: 0.94 (pos: 0.20, neg: 0.00)
+2025-05-09 08:59:32,088 - __main__ - INFO - Processing post 2/25: https://www.reddit.com/r/golang/comments/1khj4u2/how_do_you_approach_architecture_with_clean_code/
+2025-05-09 08:59:35,306 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 08:59:50,508 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 08:59:50,949 - __main__ - INFO - Successfully extracted post data: How do you approach architecture with clean code.
+2025-05-09 08:59:50,951 - __main__ - INFO - Sentiment: 0.97 (pos: 0.14, neg: 0.02)
+2025-05-09 08:59:53,952 - __main__ - INFO - Processing post 3/25: https://www.reddit.com/r/golang/comments/1ki5926/relational_inserts_in_sqlc_one_big_cte_or/
+2025-05-09 08:59:57,122 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 09:00:12,223 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 09:00:12,651 - __main__ - INFO - Successfully extracted post data: Relational Inserts in SQLC: One Big CTE or Transaction in Go
+2025-05-09 09:00:12,653 - __main__ - INFO - Sentiment: 0.03 (pos: 0.02, neg: 0.02)
+2025-05-09 09:00:15,654 - __main__ - INFO - Processing post 4/25: https://www.reddit.com/r/golang/comments/1khvez6/go_go_proxy_a_secure_flexible_api_proxy_with/
+2025-05-09 09:00:18,445 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 09:00:33,815 - __main__ - INFO - Found post content with selector: div[slot='text-body']
+2025-05-09 09:00:34,255 - __main__ - INFO - Successfully extracted post data: Go Go Proxy, a secure, flexible API proxy with caching, rate limiting, and JWT authentication
+2025-05-09 09:00:34,256 - __main__ - INFO - Sentiment: 0.96 (pos: 0.15, neg: 0.00)
+2025-05-09 09:00:37,256 - __main__ - INFO - Processing post 5/25: https://www.reddit.com/r/golang/comments/1khkkmv/proposal_nethttp_add_crossoriginforgeryhandler/
+2025-05-09 09:00:40,125 - __main__ - INFO - Waiting for post content to load...
+2025-05-09 09:03:21,899 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khkkmv/proposal_nethttp_add_crossoriginforgeryhandler/: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=136.0.7103.92)
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD05D3]
+	(No symbol) [0x00BBFE20]
+	(No symbol) [0x00BDDD1F]
+	(No symbol) [0x00C43E8C]
+	(No symbol) [0x00C5DF19]
+	(No symbol) [0x00C3D096]
+	(No symbol) [0x00C0C840]
+	(No symbol) [0x00C0D6A4]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	GetHandleVerifier [0x00DB74A8+92440]
+	GetHandleVerifier [0x00DB7650+92864]
+	GetHandleVerifier [0x00DA2040+5296]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 494, in _extract_post_content
+    WebDriverWait(self.driver, 15).until(
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        EC.presence_of_element_located((By.CSS_SELECTOR, selector))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\support\wait.py", line 137, in until
+    value = method(self._driver)
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\support\expected_conditions.py", line 110, in _predicate
+    return driver.find_element(*locator)
+           ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 898, in find_element
+    return self.execute(Command.FIND_ELEMENT, {"using": by, "value": value})["value"]
+           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=136.0.7103.92)
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD05D3]
+	(No symbol) [0x00BBFE20]
+	(No symbol) [0x00BDDD1F]
+	(No symbol) [0x00C43E8C]
+	(No symbol) [0x00C5DF19]
+	(No symbol) [0x00C3D096]
+	(No symbol) [0x00C0C840]
+	(No symbol) [0x00C0D6A4]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	GetHandleVerifier [0x00DB74A8+92440]
+	GetHandleVerifier [0x00DB7650+92864]
+	GetHandleVerifier [0x00DA2040+5296]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:25,129 - __main__ - INFO - Processing post 6/25: https://www.reddit.com/r/golang/comments/1khcs9w/why_concrete_error_types_are_superior_to_sentinel/
+2025-05-09 09:03:25,133 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khcs9w/why_concrete_error_types_are_superior_to_sentinel/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:28,144 - __main__ - INFO - Processing post 7/25: https://www.reddit.com/r/golang/comments/1khixao/wanna_share_my_go_crud_project/
+2025-05-09 09:03:28,147 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khixao/wanna_share_my_go_crud_project/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:31,154 - __main__ - INFO - Processing post 8/25: https://www.reddit.com/r/golang/comments/1kgr2ou/go_1243_is_released/
+2025-05-09 09:03:31,159 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgr2ou/go_1243_is_released/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:34,167 - __main__ - INFO - Processing post 9/25: https://www.reddit.com/r/golang/comments/1khoji2/grpc_best_practice_how_to_return_errors/
+2025-05-09 09:03:34,169 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khoji2/grpc_best_practice_how_to_return_errors/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:37,171 - __main__ - INFO - Processing post 10/25: https://www.reddit.com/r/golang/comments/1khaii2/go_mod_tidy_vs_go_mod_download/
+2025-05-09 09:03:37,174 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khaii2/go_mod_tidy_vs_go_mod_download/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:40,175 - __main__ - INFO - Processing post 11/25: https://www.reddit.com/r/golang/comments/1khmi41/cors_error_on_go_reverse_proxy/
+2025-05-09 09:03:40,179 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khmi41/cors_error_on_go_reverse_proxy/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:43,188 - __main__ - INFO - Processing post 12/25: https://www.reddit.com/r/golang/comments/1kgtf43/proposal_add_bare_metal_support/
+2025-05-09 09:03:43,191 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgtf43/proposal_add_bare_metal_support/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:46,195 - __main__ - INFO - Processing post 13/25: https://www.reddit.com/r/golang/comments/1kha1pf/timeline_view_for_pprof/
+2025-05-09 09:03:46,199 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kha1pf/timeline_view_for_pprof/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:49,202 - __main__ - INFO - Processing post 14/25: https://www.reddit.com/r/golang/comments/1kgwzbh/build_your_own_responsewriter_safer_http_in_go/
+2025-05-09 09:03:49,205 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgwzbh/build_your_own_responsewriter_safer_http_in_go/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:52,208 - __main__ - INFO - Processing post 15/25: https://www.reddit.com/r/golang/comments/1kgztbg/realtime_database_change_tracking_in_go/
+2025-05-09 09:03:52,211 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgztbg/realtime_database_change_tracking_in_go/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:55,216 - __main__ - INFO - Processing post 16/25: https://www.reddit.com/r/golang/comments/1khjaoz/an_open_source_project_for_creating_crypto_wallet/
+2025-05-09 09:03:55,219 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khjaoz/an_open_source_project_for_creating_crypto_wallet/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:03:58,222 - __main__ - INFO - Processing post 17/25: https://www.reddit.com/r/golang/comments/1kh2xe4/how_to_stop_a_goroutine_in_errgroup_if_its/
+2025-05-09 09:03:58,226 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kh2xe4/how_to_stop_a_goroutine_in_errgroup_if_its/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:01,230 - __main__ - INFO - Processing post 18/25: https://www.reddit.com/r/golang/comments/1khe5ua/examples_of_best_parser_for_this_grammar/
+2025-05-09 09:04:01,237 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khe5ua/examples_of_best_parser_for_this_grammar/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:04,241 - __main__ - INFO - Processing post 19/25: https://www.reddit.com/r/golang/comments/1kgv2za/how_would_you_unpack_this_json/
+2025-05-09 09:04:04,245 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgv2za/how_would_you_unpack_this_json/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:07,248 - __main__ - INFO - Processing post 20/25: https://www.reddit.com/r/golang/comments/1khp9wp/json_in_go_is_finally_getting_a_massive_upgrade/
+2025-05-09 09:04:07,251 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1khp9wp/json_in_go_is_finally_getting_a_massive_upgrade/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:10,254 - __main__ - INFO - Processing post 21/25: https://www.reddit.com/r/golang/comments/1kgvtgy/is_it_worth_using_workspaces_to_separate_core_and/
+2025-05-09 09:04:10,258 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgvtgy/is_it_worth_using_workspaces_to_separate_core_and/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:13,263 - __main__ - INFO - Processing post 22/25: https://www.reddit.com/r/golang/comments/1kh217g/sqliteq_the_lightweight_sqlite_queue_adapter/
+2025-05-09 09:04:13,266 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kh217g/sqliteq_the_lightweight_sqlite_queue_adapter/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:16,273 - __main__ - INFO - Processing post 23/25: https://www.reddit.com/r/golang/comments/1kguqhe/exwrap_turn_any_application_written_in_any/
+2025-05-09 09:04:16,276 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kguqhe/exwrap_turn_any_application_written_in_any/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:19,280 - __main__ - INFO - Processing post 24/25: https://www.reddit.com/r/golang/comments/1kgwqw5/wrapping_errors_with_context_in_go/
+2025-05-09 09:04:19,283 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgwqw5/wrapping_errors_with_context_in_go/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:22,289 - __main__ - INFO - Processing post 25/25: https://www.reddit.com/r/golang/comments/1kgwp26/databasefirst_analytics_agent_in_go/
+2025-05-09 09:04:22,293 - __main__ - ERROR - Error extracting post content for https://www.reddit.com/r/golang/comments/1kgwp26/databasefirst_analytics_agent_in_go/: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+Traceback (most recent call last):
+  File "C:\Users\user\OneDrive\Desktop\Reddit trial\reddit_scraper.py", line 478, in _extract_post_content
+    self.driver.get(post_url)
+    ~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 454, in get
+    self.execute(Command.GET, {"url": url})
+    ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\webdriver.py", line 429, in execute
+    self.error_handler.check_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\user\AppData\Roaming\Python\Python313\site-packages\selenium\webdriver\remote\errorhandler.py", line 232, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,301 - __main__ - WARNING - Error with next button: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,306 - __main__ - WARNING - Error with next button: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,309 - __main__ - WARNING - Error with next button: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,313 - __main__ - WARNING - Error with next button: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,318 - __main__ - WARNING - Error with next button: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,323 - __main__ - WARNING - Error with next button: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,345 - __main__ - ERROR - Error checking for infinite scroll: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,354 - __main__ - ERROR - Error finding next page: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:25,355 - __main__ - INFO - No more pages found
+2025-05-09 09:04:28,357 - __main__ - INFO - Processing subreddit: r/learngolang
+2025-05-09 09:04:28,358 - __main__ - INFO - Page 1/3: https://www.reddit.com/r/learngolang/hot/
+2025-05-09 09:04:28,361 - __main__ - ERROR - Error processing page 1: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:31,372 - __main__ - INFO - Data saved to output\go_posts.json
+2025-05-09 09:04:31,373 - __main__ - INFO - Completed analysis for Go. Total posts scraped: 4
+2025-05-09 09:04:31,375 - __main__ - INFO - Starting analysis for Rust programming language
+2025-05-09 09:04:31,377 - __main__ - INFO - Processing subreddit: r/rust
+2025-05-09 09:04:31,382 - __main__ - INFO - Page 1/3: https://www.reddit.com/r/rust/hot/
+2025-05-09 09:04:31,390 - __main__ - ERROR - Error processing page 1: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:34,393 - __main__ - INFO - Processing subreddit: r/rust_gamedev
+2025-05-09 09:04:34,394 - __main__ - INFO - Page 1/3: https://www.reddit.com/r/rust_gamedev/hot/
+2025-05-09 09:04:34,397 - __main__ - ERROR - Error processing page 1: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:37,398 - __main__ - INFO - Processing subreddit: r/learnrust
+2025-05-09 09:04:37,399 - __main__ - INFO - Page 1/3: https://www.reddit.com/r/learnrust/hot/
+2025-05-09 09:04:37,402 - __main__ - ERROR - Error processing page 1: Message: invalid session id
+Stacktrace:
+	GetHandleVerifier [0x00DAFC53+61635]
+	GetHandleVerifier [0x00DAFC94+61700]
+	(No symbol) [0x00BD044E]
+	(No symbol) [0x00C0BB08]
+	(No symbol) [0x00C3D156]
+	(No symbol) [0x00C38C22]
+	(No symbol) [0x00C381B6]
+	(No symbol) [0x00BA36C5]
+	(No symbol) [0x00BA3C1E]
+	(No symbol) [0x00BA40AD]
+	GetHandleVerifier [0x01034573+2701795]
+	GetHandleVerifier [0x0102FCF6+2683238]
+	GetHandleVerifier [0x0104AA3E+2793134]
+	GetHandleVerifier [0x00DC6915+155013]
+	GetHandleVerifier [0x00DCCFFD+181357]
+	(No symbol) [0x00BA3390]
+	(No symbol) [0x00BA2B9D]
+	GetHandleVerifier [0x011287CC+3701820]
+	BaseThreadInitThunk [0x76DF5D49+25]
+	RtlInitializeExceptionChain [0x7739CFFB+107]
+	RtlGetAppContainerNamedObjectPath [0x7739CF81+561]
+
+2025-05-09 09:04:40,406 - __main__ - INFO - Data saved to output\rust_posts.json
+2025-05-09 09:04:40,408 - __main__ - INFO - Completed analysis for Rust. Total posts scraped: 0
+2025-05-09 09:04:40,410 - __main__ - INFO - Analyzing sentiment data for all languages...
+2025-05-09 09:04:40,623 - __main__ - INFO - Sentiment data saved to output\sentiment_analysis.csv
+2025-05-09 09:04:40,624 - __main__ - INFO - Creating JSON outputs...
+2025-05-09 09:04:40,683 - __main__ - INFO - Data saved to output\sentiment_summary.json
+2025-05-09 09:04:40,684 - __main__ - INFO - Summary JSON saved to output\sentiment_summary.json
+2025-05-09 09:04:40,731 - __main__ - INFO - Data saved to output\r_sentiment_stats.json
+2025-05-09 09:04:40,732 - __main__ - INFO - R stats saved to output\r_sentiment_stats.json
+2025-05-09 09:04:40,747 - __main__ - INFO - Data saved to output\go_sentiment_stats.json
+2025-05-09 09:04:40,748 - __main__ - INFO - Go stats saved to output\go_sentiment_stats.json
+2025-05-09 09:04:40,763 - __main__ - INFO - Data saved to output\complete_sentiment_analysis.json
+2025-05-09 09:04:40,764 - __main__ - INFO - Complete analysis saved to output\complete_sentiment_analysis.json
+2025-05-09 09:04:40,765 - __main__ - INFO - Scraping and analysis complete!
+2025-05-09 09:04:42,826 - __main__ - INFO - WebDriver closed

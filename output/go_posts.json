@@ -1,0 +1,70 @@
+[
+  {
+    "post_id": "1khm1xv",
+    "post_url": "https://www.reddit.com/r/golang/comments/1khm1xv/introducing_docscraper_a_gobased_web_crawler_for/",
+    "language": "go",
+    "scraped_at": "2025-05-09T08:59:28.483989",
+    "title": "Introducing doc-scraper: A Go-Based Web Crawler for LLM Documentation",
+    "author": "Unknown",
+    "subreddit": "r/golang",
+    "post_date": "20 hr. ago",
+    "content": "Hi everyone,\nI've developed an open-source tool called doc-scraper, written in Go, designed to:\nScrape Technical Documentation: Crawl documentation websites efficiently.\nConvert to Clean Markdown: Transform HTML content into well-structured Markdown files.\nFacilitate LLM Ingestion: Prepare data suitable for Large Language Models, aiding in RAG and training datasets.\nRepository: https://github.com/Sriram-PR/doc-scraper\nI'm eager to receive feedback, suggestions, or contributions. If you have specific documentation sites you'd like support for, feel free to let me know!",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.803,
+      "pos": 0.197,
+      "compound": 0.9402
+    }
+  },
+  {
+    "post_id": "1khj4u2",
+    "post_url": "https://www.reddit.com/r/golang/comments/1khj4u2/how_do_you_approach_architecture_with_clean_code/",
+    "language": "go",
+    "scraped_at": "2025-05-09T08:59:50.508819",
+    "title": "How do you approach architecture with clean code.",
+    "author": "Unknown",
+    "subreddit": "r/golang",
+    "post_date": "1 day ago",
+    "content": "So I am working on a Personal Project in Golang by myself. It's first time I am working a large project by myself. I have decided to go with a monolith for now with a clean architecture maintaining separate repository, service and transport layer. To clarify\nrepository handles all the database related operations.\nservice acts as a middleware performing any logic operations on a repository to achieve a set of task.\ntransport stores the type of transport layer methods in which for now there is http that has all controllers, routes.\nSo I am using gorm with PostgreSQL and the issue is I have two different repositories one for managing videos and the other is thumbnails. The issue is I want to create the thumbnail and simalteneously update the video status in a transaction. So I am confused here on what can be a good practice here -\nI can directly use the video table in the thumbnail repository but I don't know if that is a good practice.\nThe second is I can leak it to the service layer but that breaks the abstraction of the repository layer.\nIf you guys have any other solution can you recommend me.\nThanks for the help in advance :)",
+    "sentiment": {
+      "neg": 0.024,
+      "neu": 0.841,
+      "pos": 0.135,
+      "compound": 0.9685
+    }
+  },
+  {
+    "post_id": "1ki5926",
+    "post_url": "https://www.reddit.com/r/golang/comments/1ki5926/relational_inserts_in_sqlc_one_big_cte_or/",
+    "language": "go",
+    "scraped_at": "2025-05-09T09:00:12.225668",
+    "title": "Relational Inserts in SQLC: One Big CTE or Transaction in Go",
+    "author": "Unknown",
+    "subreddit": "r/golang",
+    "post_date": "6 hr. ago",
+    "content": "When inserting new entities that have 1-to-1 relationships (or other types of relations), the usual approach is to first insert related entities individually, get their generated IDs, and then insert the main entity referencing those IDs.\nThere seem to be two main approaches you can take:\nSeparate Simple CRUD Queries in a managed transaction from Go\nWrite individual SQL statements for each table, call them sequentially from Go, and use the returned IDs:\ntx := db.Begin()\nauthorID := db.InsertAuthor(...)\n// if err tx.rollback()...\nbookID := db.InsertBook(..., authorID)\n// if err tx.rollback()...\ntx.Commit()\nThis approach needs Go code to manage a db transaction for commit/rollback logic in the case of errors.\nRead more",
+    "sentiment": {
+      "neg": 0.021,
+      "neu": 0.957,
+      "pos": 0.022,
+      "compound": 0.0258
+    }
+  },
+  {
+    "post_id": "1khvez6",
+    "post_url": "https://www.reddit.com/r/golang/comments/1khvez6/go_go_proxy_a_secure_flexible_api_proxy_with/",
+    "language": "go",
+    "scraped_at": "2025-05-09T09:00:33.817176",
+    "title": "Go Go Proxy, a secure, flexible API proxy with caching, rate limiting, and JWT authentication",
+    "author": "Unknown",
+    "subreddit": "r/golang",
+    "post_date": "13 hr. ago",
+    "content": "Hi everyone!\nI've just created a small piece of software that I hope will be useful to you too. As the name suggests, Go Go Proxy is an API proxy that includes JWT-based authentication, response caching via Redis, and rate limiting.\nHow does it work? Go Go Proxy receives an incoming request and forwards it (copying both the body and headers) to the URL specified as a query parameter, while adding the required API key. This makes it easy to add an extra security layer to public API calls — especially thanks to rate limiting and caching, which can help reduce costs when using paid services.\nIt also supports optional checks on Origin, Referer, and includes a heuristic control to verify that requests are likely being made by a browser via JavaScript.\nYou can find all the documentation here: https://github.com/luca-martinelli-09/go-go-proxy",
+    "sentiment": {
+      "neg": 0.0,
+      "neu": 0.853,
+      "pos": 0.147,
+      "compound": 0.9627
+    }
+  }
+]

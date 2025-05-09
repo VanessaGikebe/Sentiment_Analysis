@@ -1,0 +1,19 @@
+{
+  "average_sentiment": {
+    "Go": 0.7243,
+    "R": 0.19276000000000001
+  },
+  "positive_components": {
+    "Go": 0.12525,
+    "R": 0.0876
+  },
+  "negative_components": {
+    "Go": 0.01125,
+    "R": 0.059550000000000006
+  },
+  "post_counts": {
+    "Go": 4,
+    "R": 20
+  },
+  "generated_at": "2025-05-09T09:04:40.680051"
+}

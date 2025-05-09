@@ -1,0 +1,17 @@
+{
+  "language": "Go",
+  "average_sentiment": 0.7243,
+  "median_sentiment": 0.95145,
+  "std_deviation": 0.4658265986394508,
+  "positive_component": 0.12525,
+  "negative_component": 0.01125,
+  "neutral_component": 0.8634999999999999,
+  "post_count": 4,
+  "sentiment_distribution": {
+    "very_positive": 3,
+    "positive": 0,
+    "neutral": 1,
+    "negative": 0,
+    "very_negative": 0
+  }
+}
