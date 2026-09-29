@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # reddit_sentiment_analyzer_updated.py
 
+import utils.transport
+import utils.session
 import os
 import json
 import time
